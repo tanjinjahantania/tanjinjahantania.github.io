@@ -1,0 +1,8 @@
+Add future portfolio photos in this folder.
+
+Use the filenames listed in ../../PHOTO_GUIDE.md.
+For example:
+
+profile-photo.jpg
+clinical-practice-01.jpg
+certificate-wva-msd.jpg
